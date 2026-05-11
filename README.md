@@ -143,7 +143,7 @@ voice-email-assistant/
 ### 🔹 1. Clone the repository
 
 ```bash
-git clone https://github.com/SICE_Logs/voice-email-assistant.git
+git clone https://github.com/SICE-Logs/Echo_voice_email_assistant.git
 cd voice-email-assistant
 ```
 
